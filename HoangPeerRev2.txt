@@ -1,0 +1,8 @@
+
+ez	The program is clear and complete, using map and lambda. Clear documentation provided.
+8s	The program is clear and complete, using map and lambda.
+26	The program is clear and complete, using list comprehension
+7p	The program is complete, using map and lambda, utilizing join to print the string. Could be more succinct.
+69	The program is clear, using map and lambda; however, the sinusoid is not symmetrical.
+7u	The program is clear and complete, using map and lambda; however, the formatting to float is unnecessary and confusing (similar formatting as it.py).
+it	WTF. The program is not in one-line as instructed. In addition, it utilizes similar formatting as 7u.py.
